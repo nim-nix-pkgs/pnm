@@ -9,7 +9,7 @@
   
   inputs.src-pnm-v2_1_0.flake = false;
   inputs.src-pnm-v2_1_0.owner = "jiro4989";
-  inputs.src-pnm-v2_1_0.ref   = "refs/tags/v2.1.0";
+  inputs.src-pnm-v2_1_0.ref   = "v2_1_0";
   inputs.src-pnm-v2_1_0.repo  = "pnm";
   inputs.src-pnm-v2_1_0.type  = "github";
   
