@@ -11,6 +11,7 @@
   inputs.src-pnm-v2_0_1.ref   = "refs/tags/v2.0.1";
   inputs.src-pnm-v2_0_1.owner = "jiro4989";
   inputs.src-pnm-v2_0_1.repo  = "pnm";
+  inputs.src-pnm-v2_0_1.dir   = "";
   inputs.src-pnm-v2_0_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
