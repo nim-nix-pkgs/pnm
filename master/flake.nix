@@ -11,7 +11,6 @@
   inputs.src-pnm-master.ref   = "refs/heads/master";
   inputs.src-pnm-master.owner = "jiro4989";
   inputs.src-pnm-master.repo  = "pnm";
-  inputs.src-pnm-master.dir   = "";
   inputs.src-pnm-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
